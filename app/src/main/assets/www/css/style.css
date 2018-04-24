@@ -1,0 +1,25 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2016-03-16, 16:04:50
+    Author     : Jacek
+*/
+body{
+    font-family: 'Roboto', 'Arial';
+    margin: 0;
+    padding: 0;
+    
+}
+#content{
+    
+}
+.img-responsive{
+    margin: 0 auto;
+    box-shadow: 3px 3px 10px #122b40;
+}
+.akapit{
+    font-size: 1.5em;
+}
